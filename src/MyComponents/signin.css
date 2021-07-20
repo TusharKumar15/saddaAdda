@@ -1,0 +1,51 @@
+.page{
+    background-image: url("./Images/social_media01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 15px;
+}
+
+.signin_section{
+   
+  margin: auto;
+  width: 350px;
+  border-radius: 10px;
+  margin-top: 50px;
+  padding: 50px;
+  content: "";
+  clear: both;
+  display: table;
+  background-color: white;
+  opacity: 90%;
+  
+}
+
+.signin_head{
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(8, 42, 138);
+}
+
+.blank{
+   margin-bottom: 10px;
+   border: none;
+   border-radius: 5px;
+   background-color: rgb(235, 232, 232);
+   width: 100%;
+   padding: 10px;
+}
+
+.submit_btn{
+    width: 100%;
+    margin-top: 30px;
+
+}
+

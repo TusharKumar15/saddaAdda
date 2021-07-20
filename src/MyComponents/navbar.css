@@ -1,0 +1,28 @@
+#nav-container{
+    top: 0px;
+    position: sticky;
+    z-index: 10;
+    width: 100%;
+}
+
+.nav-user-section{
+    float: right;
+    color: white;
+    margin: 10px;
+}
+
+#dp{
+    border: 1px white solid;
+    border-radius: 20px;
+    padding: 1px;
+    color: white;
+}
+
+.nav-link{
+    transition: 500ms;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+    padding-left: 20px;
+}

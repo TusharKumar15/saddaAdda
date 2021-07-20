@@ -1,0 +1,70 @@
+#btn_share{
+    float: right;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+.edit{
+    margin-top: 50px;
+    opacity: 90%;
+    border: 1px rgb(1, 12, 12) solid;
+    border-radius: 10px;
+}
+
+.btn{
+    margin: 5px;
+    transition: 500ms;
+}
+.btn:hover{
+    transform: scale(1.2);
+    
+}
+
+.right_btn{
+    float: right;
+}
+
+.post_heading{
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+.post{
+    margin: auto;
+    width: 80%;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    opacity: 90%;
+}
+
+.no_post{
+    font-size: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(18, 18, 19);
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    margin-top: 30px;;
+
+}
+
+#alert{
+    display:none;
+    margin: auto;
+    background-color: rgb(174, 243, 147);
+    text-align: center;
+    top: 80px;
+    z-index: 2;
+    padding: 5px;
+}
